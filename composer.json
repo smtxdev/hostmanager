@@ -2,6 +2,7 @@
     "name": "smtxdev/hostmanager",
     "license": "MIT",
     "type": "project",
+    "bin": ["bin/hostmanager"],
     "autoload": {
         "psr-4": {"SmtXDev\\DockerHostManager\\": "src/"}
     },
