@@ -1,0 +1,11 @@
+{
+    "name": "smtxdev/hostmanager",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {"SmtXDev\\DockerHostManager\\": "src/"}
+    },
+    "require": {
+        "symfony/console": "^4.2"
+    }
+}
