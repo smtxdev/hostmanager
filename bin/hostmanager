@@ -14,7 +14,7 @@ foreach ($paths as $path) {
     }
 }
 
-use SmtXDev\DockerHostManager\Command\HostManagerCommand;
+use SmtXDev\HostManager\Command\HostManagerCommand;
 use Symfony\Component\Console\Application;
 
 $application = new Application();

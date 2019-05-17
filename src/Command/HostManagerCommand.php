@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace SmtXDev\DockerHostManager\Command;
+namespace SmtXDev\HostManager\Command;
 
 use Exception;
 use RuntimeException;
