@@ -14,7 +14,7 @@ composer require smtxdev/hostmanager:dev-master
 ## Usage
 
 ```
-./vendor/bin/hostmanager --hostnames exmaple.de,exmaple2.de
+./vendor/bin/hostmanager --hostnames example1.de,example2.de
 ```
 
 ## Parameters
